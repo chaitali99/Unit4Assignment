@@ -1,0 +1,17 @@
+
+
+Use of ‘this’ keyword:	
+1.	‘this’ can be used to refer current class instance variable.
+2.	‘this’ can be used to invoke current class method(implicitly).
+3.	‘this()’ can be used to invoke current class constructor.
+4.	‘this’ can be passed as an argument as the instance of that particular class in the method call.
+5.	‘this’ can be passed as an argument as the instance of that particular class in the constructor call.
+6.	’this’ can be used to return the current class instance from the method.
+
+
+
+
+Use of ‘super’ keyword:
+1.	‘super’ can be used to refer immediate parent class instance variable.
+2.	‘super’ can be used to invoke immediate parent class method.
+3.	Super() can be used to invoke immediate parent class constructor.
